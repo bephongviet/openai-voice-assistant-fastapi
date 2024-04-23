@@ -7,3 +7,5 @@ Ví dụ cách gọi qua curl:
 curl --location 'http://127.0.0.1:8000/assist/' \
 --form 'voice=@"/../path/to.../uservoice.m4a"'
 ```
+
+Developed together with LinxHQ https://linxhq.com
